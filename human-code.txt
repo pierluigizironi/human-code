@@ -5,5 +5,5 @@
     -Lampada: Se consegna con prime è in tempo 
     Altrimenti -Penna Stilografiga: 
     Se non sfora il budget 
-    Altrimenti -Libro Classico. 
+    Altrimenti -Libro
 4. Procedo con l'acquisto più congeniale. --> 
